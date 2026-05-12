@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-
+// All funtions are declared
 int *createArray(int size);
 void scanArray(int *arr, int size);
 void printArray(int *arr, int size);
